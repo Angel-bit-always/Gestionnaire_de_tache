@@ -38,7 +38,7 @@ form.addEventListener("submit", function (e) {
     editButton.addEventListener("click", function () {
     taskList.removeChild(li)
 })         
-            //Céer un nouvel input
+            //Créer un nouvel input
             //Ajouter le type 'text' à l'input
             //Ajouter en valeur de l'input le contenu textuel du premier élément enfant (firstChild) du li
             
